@@ -1,0 +1,4 @@
+x center   x1/cols + width/2
+y center   y1/rows + height/2
+width     (x2-x1)/cols
+height    (y2-y1)/rows
